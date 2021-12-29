@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(124, 124, 179);
+}
+
+li {
+    color: rgb(182, 248, 0);
+    align-content: center;
+}
+
+div {
+    padding: 10px;
+    border-radius: 5px;
+    border-color: chartreuse;
+}
